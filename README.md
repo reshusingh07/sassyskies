@@ -288,37 +288,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Hritwik
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 🙏 Acknowledgments
 
 - **OpenWeatherMap** for reliable weather data
 - **Google AI** for powerful language generation
@@ -330,11 +299,11 @@ SOFTWARE.
 
 ## 📞 Contact
 
-**Hritwik** - [hritwikjohri@gmail.com](mailto:hritwikjohri@gmail.com)
+**Hritwik** - [reshu70173@gmail.com](mailto:reshu70173@gmail.com)
 
-**Project Link**: [https://github.com/yourusername/sassy-skies](https://github.com/hritwikjohri/sassy-skies)
+**Project Link**: [https://www.linkedin.com/in/reshu-singh07/](https://github.com/reshusingh07/sassyskies)] 
 
-**LinkedIn**: [linkedin.com/in/hritwikjohri](https://linkedin.com/in/hritwikjohri)
+**LinkedIn**: [https://www.linkedin.com/in/reshu-singh07/](https://www.linkedin.com/in/reshu-singh07/)
 
 ---
 
